@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"/home/luis/Documentos/tallervagrant/www_1","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/luis/Documentos/tallervagrant","disabled":false,"__vagrantfile":true}}}
